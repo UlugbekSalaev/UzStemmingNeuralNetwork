@@ -144,7 +144,7 @@ kel/ingan
 biroq/
 so‘nggi/
 payt/larda
-globa/l
+global/
 isi/sh
 xavf/i
 ort/ib
